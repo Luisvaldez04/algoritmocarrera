@@ -1,0 +1,18 @@
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\bin\Release\net6.0-windows\paralelo app racer.exe
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\bin\Release\net6.0-windows\paralelo app racer.deps.json
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\bin\Release\net6.0-windows\paralelo app racer.runtimeconfig.json
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\bin\Release\net6.0-windows\paralelo app racer.dll
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\bin\Release\net6.0-windows\paralelo app racer.pdb
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo app racer.csproj.AssemblyReference.cache
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo_app_racer.Form1.resources
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo_app_racer.Properties.Resources.resources
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo app racer.csproj.GenerateResource.cache
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo app racer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo app racer.AssemblyInfoInputs.cache
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo app racer.AssemblyInfo.cs
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo app racer.csproj.CoreCompileInputs.cache
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo app racer.dll
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\refint\paralelo app racer.dll
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo app racer.pdb
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\paralelo app racer.genruntimeconfig.cache
+C:\Users\Luis Enrique\Documents\vs 2024\paralelo app racer\paralelo app racer\obj\Release\net6.0-windows\ref\paralelo app racer.dll
